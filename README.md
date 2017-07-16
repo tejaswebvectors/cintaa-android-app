@@ -1,1 +1,0 @@
-# cintaa-android-app
